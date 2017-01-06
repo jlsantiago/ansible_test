@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#Este es un test
  
 for h in `cat host.txt`
 
